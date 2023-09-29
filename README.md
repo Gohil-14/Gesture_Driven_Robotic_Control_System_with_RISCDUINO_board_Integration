@@ -44,12 +44,6 @@ gesture:
      - Stop all motor movements.
      - Power down the system components.
     
-       
-Error-Free Compilation Output: We have Provide a snapshot showcasing error-free compilation with Arduino UNO.
-![Error-Free Compilation Output](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/757db8d9-07bb-40f9-af32-58fc68d58670)
-
-
-RISCDUINO UNO Compilation Output: Similarly, we have include a compilation output snapshot with RISCDUINO UNO using RISCDUINO Firmware.
-![RISCDUINO UNO Compilation Output](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/b52f0772-97a2-42de-a0da-54bbd16b063d)
+ CDUINO UNO Compilation Output](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/b52f0772-97a2-42de-a0da-54bbd16b063d)
 
 
