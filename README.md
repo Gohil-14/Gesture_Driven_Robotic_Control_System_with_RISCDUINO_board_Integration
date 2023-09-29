@@ -1,0 +1,2 @@
+# Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration
+The primary action or feature of the "Gesture-Driven Robotic Control System with RISCDUINO Integration" is "Control and Navigation through Gestures." This means that the product allows users to control the robot's movement and actions using hand gestures, providing an intuitive and interactive way to guide the robot's behaviour.
