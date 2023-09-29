@@ -1,6 +1,11 @@
 # Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration
 The primary action or feature of the "Gesture-Driven Robotic Control System with RISCDUINO Integration" is "Control and Navigation through Gestures." This means that the product allows users to control the robot's movement and actions using hand gestures, providing an intuitive and interactive way to guide the robot's behaviour.
 
+  Block Diagram 
+  ![Blank diagram 1](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/16a3d7e1-bd05-4b7f-a8c2-adc062ec65d8)
+  ![Blank diagram 2(1)](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/b786d45f-51a7-47e3-b04d-54f1d1421469)
+
+
 
 The algorithm breakdown of the Gesture-Driven Robotic Control System with RISCDUINO board Integration:
 
@@ -43,7 +48,3 @@ Shutdown
 gesture:
      - Stop all motor movements.
      - Power down the system components.
-    
- CDUINO UNO Compilation Output](https://github.com/Gohil-14/Gesture_Driven_Robotic_Control_System_with_RISCDUINO_board_Integration/assets/105907265/b52f0772-97a2-42de-a0da-54bbd16b063d)
-
-
